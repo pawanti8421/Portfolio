@@ -35,16 +35,23 @@ Technologies Used:
 HTML5: Structured the content with semantic tags for accessibility and SEO-friendliness.
 
 CSS3: Styled the website with modern CSS techniques, including Flexbox, Grid, and animations.
+
 JavaScript: Added interactivity and dynamic content manipulation to enhance the user experience.
 
 
 Interactive Elements:
 
 Navigation Menu: A responsive navigation bar that collapses into a hamburger menu on smaller screens.
+
 Typed.js: Dynamic text effect in the hero section that displays multiple roles.
+
 Image Sliders and Modals: Interactive elements to showcase projects and provide detailed views.
-Performance Optimization
+
+
+Performance Optimization:
 
 Lazy Loading: Implemented for images to improve page load times.
+
 Minification: Minified CSS and JavaScript files to reduce file size and improve performance.
+
 Caching: Utilized browser caching to enhance loading speed for returning visitors.
